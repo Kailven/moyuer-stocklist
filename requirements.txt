@@ -1,0 +1,5 @@
+tushare==1.2.45
+pandas==0.24.2
+texttable==1.6.2
+numpy==1.16.4
+pandas==0.24.2
